@@ -1,5 +1,5 @@
 # Presentación
-**Foto:** 
+**Foto:** ![Image](https://github.com/user-attachments/assets/41855228-14bb-4f1a-b3fb-ec88d81783ca)
 ## Sobre mí
 **Nombre:**  Fabricio De Vito 
 **Legajo:** 213.652-1
