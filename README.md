@@ -8,7 +8,8 @@
 
 
 ## Acerca de mí
-Hola, soy Fabricio De Vito y estoy cursando la materia Paradigmas de Programación. Me interesa mucho el futbol y los juegos online. Actualmente estoy cursando el 2do nivel en la carrera anteriorente mencionada.
+Hola, soy Fabricio De Vito y estoy cursando la materia Paradigmas de Programación. Me interesa los juegos online y los deportes ,hablando un poco mas de esto suelo jugar seguido al futbol y soy hincha de Boca Juniors.
+Actualmente estoy cursando el 2do nivel de la carrera anteriorente mencionada.
 
 ## Contacto
 Podés encontrarme en GitHub como : fffffabricio(https://github.com/fffffabricio)  
