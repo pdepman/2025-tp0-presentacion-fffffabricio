@@ -1,10 +1,10 @@
 # Presentación
-
+**Foto:** 
 ## Sobre mí
 **Nombre:**  Fabricio De Vito 
 **Legajo:** 213.652-1
 **Carrera:** Ingeniería en Sistemas de informacion
-**Foto:**  
+ 
 
 
 ## Acerca de mí
