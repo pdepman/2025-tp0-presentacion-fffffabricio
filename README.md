@@ -10,7 +10,7 @@
 
 
 ## Acerca de mí
-Hola, soy Fabricio De Vito y estoy cursando la materia Paradigmas de Programación. Me interesa los juegos online y los deportes ,hablando un poco mas de esto suelo jugar seguido al futbol y soy hincha de Boca Juniors.
+Hola, soy Fabricio De Vito , tengo 20 años y estoy cursando la materia Paradigmas de Programación. Me interesa los juegos online y los deportes ,hablando un poco mas de esto suelo jugar seguido al futbol y soy hincha de Boca Juniors.
 Actualmente estoy cursando el 2do nivel de la carrera anteriorente mencionada.
 
 ## Contacto
